@@ -1,0 +1,5 @@
+Hello, this is a sample file.
+It contains multiple lines of text.
+
+Some lines have extra   spaces.
+We'll process this file!
