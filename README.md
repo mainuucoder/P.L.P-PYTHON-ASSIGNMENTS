@@ -1,2 +1,2 @@
-# P.L.P-PYTHON-ASSIGNMENTS
+# P.L.P-PYTHON WEEKLY-ASSIGNMENTS
 This is my python assignments repo
